@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="DrawerNav_Icon">
+        <item name="android:layout_marginLeft">@dimen/drawer_menu_icon_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/drawer_menu_icon_margin_right</item>
+    </style>
+    <style name="DrawerNav_Content">
+        <item name="android:textColor">@color/drawer_menu_content_text_color</item>
+        <item name="android:textSize">@dimen/drawer_menu_content_size</item>
+    </style>
+
+</resources>
